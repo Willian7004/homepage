@@ -17,3 +17,4 @@ st.write("AI-note项目，用于记录当前各类AI模型中有优势的模型�
 st.write("LLM Inquiry项目，用于展示我使用LLM查询一些难以使用搜索引擎检索的问题的记录，排除了一些可能出现事实错误的回答：https://william7004-llm-inquiry.streamlit.app")
 st.write("Gallery Without Prompt项目，展示使用由Flux.1 dev文生图再由Flux.1 schnell图生图的流程在不填写提示词时得到的图片：https://william7004-gallery-without-prompt.streamlit.app")
 st.write("ysyx-note项目，记录我在“一生一芯”项目中的学习体会：https://william7004-ysyx-note.streamlit.app")
+st.write("hunyuan-video-gallery-without-prompt项目，展示使用Hunyuan Video生成的图片和视频，使用了较为丰富的逻辑功能。")
